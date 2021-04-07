@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [EPharma Distributor](https://github.com/SigSegvSquad/e_pharma_app)
 
-- 👨‍💻 All of my projects are available at [right here](https://github.com/OverPoweredDev)
+- 👨‍💻 All of my projects are available [right here](https://github.com/OverPoweredDev)
 
 - 📫 How to reach me **op.prabhune.317@gmail.com**
 
