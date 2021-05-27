@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=overpowereddev&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="overpowereddev" /> </p>
 
-- 🔭 I’m currently working on [0mg - An EPharma Distributor](https://github.com/SigSegvSquad/e_pharma_app)
+- 🔭 I’m currently working on [dope - A dynamically typed programming language](https://github.com/OverPoweredDev/dope)
 
 - 👨‍💻 All of my projects are available [right here](https://github.com/OverPoweredDev)
 
