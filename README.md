@@ -11,9 +11,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/overpowereddev" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="overpowereddev" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/omkar-prabhune-6534141b0/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/omkar-prabhune-6534141b0/" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/imp0ster" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="imp0ster" height="30" width="40" /></a>
+<a href="https://dev.to/overpowereddev" target="blank"><img align="center" style="filter: invert(1);" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="overpowereddev" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/omkar-prabhune-6534141b0/" target="blank"><img align="center" style="filter: invert(1);" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/omkar-prabhune-6534141b0/" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/imp0ster" target="blank"><img align="center" style="filter: invert(1);" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="imp0ster" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
