@@ -2,9 +2,11 @@
 <h3 align="center">A Sophomore studying Computer Science at Vishwakarma Insitute of Technology, India.</h3>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=overpowereddev&label=Profile%20views&color=red&style=for-the-badge")
-![Student](https://img.shields.io/badge/Student-orange)
-![Developer](https://img.shields.io/badge/Developer-yellow)
-![Right Here](https://img.shields.io/badge/Right%20Here-greun)
+![Open Source](https://img.shields.io/badge/Open%20Source-orange)
+![Natural Language](https://img.shields.io/badge/Natural%20Language-yellow)
+![Student](https://img.shields.io/badge/Student-greun)
+![Developer](https://img.shields.io/badge/Developer-blue)
+![Right Here](https://img.shields.io/badge/Right%20Here-indigo)
 
 - 🔭 I’m currently working on [dope - A dynamically typed programming language](https://github.com/OverPoweredDev/dope)
 
