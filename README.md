@@ -8,12 +8,15 @@
 ![Developer](https://img.shields.io/badge/Developer-blue)
 ![Right Here](https://img.shields.io/badge/Right%20Here-indigo)
 
+<br>
+
 - 🔭 I’m currently working on [dope - A dynamically typed programming language](https://github.com/OverPoweredDev/dope)
 
 - 👨‍💻 All of my projects are available [right here](https://github.com/OverPoweredDev)
 
 - 📫 How to reach me **op.prabhune.317@gmail.com**
 
+<br>
+<br>
 
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=overpowereddev&show_icons=true&locale=en" alt="overpowereddev" /></p>
+<p align="center">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=overpowereddev&show_icons=true&locale=en" alt="overpowereddev" /></p>
