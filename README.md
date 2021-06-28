@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Omkar Prabhune</h1>
-<h3 align="center">A Sophomore studying Computer Science at Vishwakarma Insitute of Technology, India.</h3>
+<h3 align="center">A Junior studying Computer Science at Vishwakarma Insitute of Technology, India.</h3>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=overpowereddev&label=Profile%20views&color=red&style=for-the-badge")
 ![Open Source](https://img.shields.io/badge/Open%20Source-orange)
