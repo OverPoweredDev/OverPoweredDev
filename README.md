@@ -5,7 +5,8 @@
 I'm a Computer Science Junior at VIT, especially interested in all things Natural Language.
 
 - :computer: All of my projects are available [right here](https://github.com/OverPoweredDev?tab=repositories)
-- :telescope: I’m currently working on [Apertium Webext](https://github.com/Apertium/apertium-webext)
+- :telescope: I’m currently working on [WordLink](https://github.com/SigSegvSquad/WordLink)
+- :book: Check out some of [my gists](https://gist.github.com/OverPoweredDev) too!
 - :e-mail: Contact me at **op.prabhune.317@gmail.com**
 
 
