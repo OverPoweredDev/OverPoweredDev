@@ -15,9 +15,10 @@ I'm a Computer Science Junior at VIT, especially interested in all things Natura
 <a href="https://www.python.org/"> ![Python](https://img.shields.io/badge/Python-green?style=for-the-badge&logo=python&logoColor=darkgreen)</a>
 <a href="https://www.w3schools.com/c/"> ![C](https://img.shields.io/badge/C%20Language-purple?style=for-the-badge&logo=c&logoColor=white)</a>
 <a href="https://www.w3schools.com/cpp/"> ![C++](https://img.shields.io/badge/C%2B%2B-blue?style=for-the-badge&logo=c%2B%2B&logoColor=white)</a>
-<a href="https://www.java.com/en/"> ![Java](https://img.shields.io/badge/Java-brown?style=for-the-badge&logo=java&logoColor=white)</a>
+<a href="https://www.java.com/en/"> ![Java](https://img.shields.io/badge/Java-6b5b4e?style=for-the-badge&logo=java&logoColor=white)</a>
 <a href="https://www.r-project.org/"> ![R](https://img.shields.io/badge/R%20Language-lightgray?style=for-the-badge&logo=r&logoColor=blue)</a>
-<a href="https://www.javascript.com/"> ![Javascript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=black)</a>
+<a href="https://www.javascript.com/"> ![Javascript](https://img.shields.io/badge/JavaScript-fcdc00?style=for-the-badge&logo=javascript&logoColor=black)</a>
+<a href="https://kotlinlang.org/"> ![Kotlin](https://img.shields.io/badge/Kotlin-7f52ff?style=for-the-badge&logo=kotlin&logoColor=white)</a>
 <a href="https://www.gnu.org/software/bash/"> ![Bash](https://img.shields.io/badge/Bash-gray?style=for-the-badge&logo=gnubash&logoColor=white)</a>
 <a href="https://dart.dev/"> ![Dart](https://img.shields.io/badge/Dart-lightblue?style=for-the-badge&logo=dart&logoColor=blue)</a>
 <a href="https://flutter.dev/"> ![Flutter](https://img.shields.io/badge/Flutter-lightblue?style=for-the-badge&logo=flutter&logoColor=darkblue)</a>
