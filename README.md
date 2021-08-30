@@ -5,7 +5,7 @@
 I'm a Computer Science Junior at VIT, especially interested in all things Natural Language.
 
 - :computer: All of my projects are available both [right here](https://github.com/OverPoweredDev?tab=repositories) and on [my organisation](https://github.com/SigSegvSquad)
-- :telescope: I’m currently working on [WordLink](https://github.com/SigSegvSquad/WordLink) - A NLP Research Project
+- :telescope: I'm currently working on [WordLink](https://github.com/SigSegvSquad/WordLink) - A NLP Research Project
 - :book: Check out some of [my gists](https://gist.github.com/OverPoweredDev) too!
 - :e-mail: Contact me at **op.prabhune.317@gmail.com**
 
@@ -41,6 +41,6 @@ I'm a Computer Science Junior at VIT, especially interested in all things Natura
     <img align="center" height="160px" src="https://github-readme-stats.vercel.app/api/?username=overpowereddev&show_icons=true&hide=issues&title_color=fff&icon_color=fb8359&text_color=9f9f9f&bg_color=3E3E3E&hideborder=true" />
   </a>
   <a href="https://github.com/OverPoweredDev">
-    <img align="center" height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=overpowereddev&layout=compact&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=3E3E3E&hideborder=true&hide=jupyter%20notebook,java&langs_count=6"/>
+    <img align="center" height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=overpowereddev&layout=compact&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=3E3E3E&hideborder=true&hide=jupyter%20notebook,java,dart&langs_count=6"/>
   </a>
 </p>
