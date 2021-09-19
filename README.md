@@ -1,4 +1,4 @@
-![banner](https://github.com/OverPoweredDev/OverPoweredDev/blob/main/banner.png)
+![banner](https://github.com/OverPoweredDev/OverPoweredDev/blob/main/assets/animated_banner.gif)
 
 ## :man_technologist: About me 
 
