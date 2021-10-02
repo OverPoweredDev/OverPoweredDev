@@ -6,7 +6,7 @@ I'm a Computer Science Junior at VIT, especially interested in all things Natura
 
 - :computer: All of my projects are available both [right here](https://github.com/OverPoweredDev?tab=repositories) and on [my organisation](https://github.com/SigSegvSquad)
 - :telescope: I'm currently working on [WordLink](https://github.com/SigSegvSquad/WordLink) - A NLP Research Project
-- :book: Check out some of [my gists](https://gist.github.com/OverPoweredDev) too!
+- :book: Check out some of [my blogs](https://medium.com/@OverPoweredDev) too!
 - :e-mail: Contact me at **op.prabhune.317@gmail.com**
 
 
