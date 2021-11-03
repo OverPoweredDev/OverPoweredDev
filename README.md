@@ -37,9 +37,10 @@ I'm a Computer Science Junior at VIT, especially interested in all things Natura
 
 ## :incoming_envelope: Reach Me
 
-<a href="mailto:omkar.prabhune.317@gmail.com"> ![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white)</a>
+<a href="mailto:op.prabhune.317@gmail.com"> ![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white)</a>
 <a href="https://www.linkedin.com/in/omkarprabhune"> ![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 <a href="https://medium.com/@OverPoweredDev"> ![Medium](https://img.shields.io/badge/Medium-303030?style=for-the-badge&logo=medium&logoColor=white)</a>
+<a href="https://discordapp.com/users/262772987579596800"> ![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)</a>
 <a href="https://twitter.com/OverPoweredDev"> ![Twitter](https://img.shields.io/badge/Twitter-white?style=for-the-badge&logo=twitter&logoColor=blue)</a>
 <a href="https://www.instagram.com/its_ya_boi_op/"> ![Instagram](https://img.shields.io/badge/Instagram-bc2a8d?style=for-the-badge&logo=instagram&logoColor=white)</a>
 
